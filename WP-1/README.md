@@ -4,6 +4,9 @@
 - perfecttype-files.zip: the contents of the above disk image, extracted to
   files for ease of use.
 
-**Note:** neither of the above have been tested. I got them second hand and
-they may not even be for a WP1. --davidgiven
+- roms-german.zip: the two 64kB ROMs from a German model WP-1 (branded
+  'M-OFFICE').
+
+**Note:** neither of the disk images have been tested. I got them second hand
+and they may not even be for a WP1. --davidgiven
 
